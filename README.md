@@ -1,7 +1,7 @@
 ### Hi there 👋
-![NativvStudios Stats](https://github-readme-stats.vercel.app/api?username=nativvstudios&show_icons=true&theme=onedark)
+![NativvStudios Stats](https://github-readme-stats.vercel.app/api?username=nativvstudios&show_icons=true&theme=github_dark )
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nativvstudios&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nativvstudios&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
