@@ -14,9 +14,8 @@ Building games, tools, and whatever else seems interesting. Mostly Unity, web st
 ---
 
 ## 📊 Stats
-
-[![NativvStudios GitHub stats](https://github-readme-stats.vercel.app/api?username=nativvstudios&show_icons=true&theme=github_dark)](https://github.com/nativvstudios)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nativvstudios&layout=compact&theme=github_dark)](https://github.com/nativvstudios)
+[![NativvStudios GitHub stats](https://github-stats-extended.vercel.app/api?username=nativvstudios&show_icons=true&theme=github_dark)](https://github.com/nativvstudios)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=nativvstudios&layout=compact&theme=github_dark)](https://github.com/nativvstudios)
 
 ---
 
