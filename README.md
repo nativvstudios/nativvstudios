@@ -1,22 +1,26 @@
-# Hi there, we’re NativvStudios! 👋
+# NativvStudios
 
-Welcome to the official GitHub profile of **NativvStudios** – a creative hub for innovative projects and collaborative development. We’re passionate about crafting high-quality software solutions and sharing our journey with the community.
+Indie dev studio out of Canada. The name's a play on *Native Studios* — I'm Ojibwe, and yes, I know the double-v looks like a typo.
 
-## 🔥 GitHub Stats
+Building games, tools, and whatever else seems interesting. Mostly Unity, web stuff, and the occasional rabbit hole.
+
+---
+
+## 🛠️ What's Here
+
+- **[com.nutilities.editor](https://github.com/nativvstudios/com.nutilities.editor)** — Unity editor utilities. Scratching my own itch, but maybe useful for you too.
+- **[auroracss](https://github.com/nativvstudios/auroracss)** — A CSS framework I built for my own projects. Lightweight, dark-mode-first.
+
+---
+
+## 📊 Stats
 
 [![NativvStudios GitHub stats](https://github-readme-stats.vercel.app/api?username=nativvstudios&show_icons=true&theme=github_dark)](https://github.com/nativvstudios)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nativvstudios&layout=compact&theme=github_dark)](https://github.com/nativvstudios)
 
-## 🚀 About Us
-
-At **NativvStudios**, we are dedicated to developing and learning new creative and reliable software projects that span various domains—from web and mobile applications to innovative tools that empower developers and users alike. Our aim is to build tools and projects that may help anyone in the open source community.
-
-
-## 📫 Get In Touch
-
-We’re always excited to connect with fellow developers, collaborators, and tech enthusiasts. If you have any questions, suggestions, or just want to say hello, feel free to reach out:
-- **Twitter:** [@NativvStudios](https://twitter.com/NativvStudios)
-
 ---
 
-Happy coding, and thanks for stopping by! 🚀
+## 📫 Find Me
+
+- 🌐 [nativvstudios.com](https://www.nativvstudios.com)
+- 🐦 [@NativvStudios](https://twitter.com/NativvStudios)
