@@ -1,6 +1,6 @@
 # NativvStudios
 
-Indie dev studio out of Canada. The name's a play on *Native Studios* — I'm Ojibwe, and yes, I know the double-v looks like a typo.
+Indie dev studio out of Canada. The name's a play on *Native Studios*, I'm Ojibwe, and yes, I know the double-v looks like a typo.
 
 Building games, tools, and whatever else seems interesting. Mostly Unity, web stuff, and the occasional rabbit hole.
 
